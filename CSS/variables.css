@@ -1,0 +1,55 @@
+
+:root{
+
+    /* body */
+
+    --color_fondo_del_body: #f4f2ee;
+    --color_texto_del_body: #5f5f5f;
+    
+    /* a */
+    
+    --color_texto_selectores_a:#5f5f5f;
+
+    /* header */
+
+
+    --color_fondo_del_header:white;
+    --padding_del_header:0 15px;
+    --margin_right_del_logo_img_del_header:15px;
+
+    --color_de_fondo_del_search_header:#edf3f8;
+    --borde_radius_del_search_header:8px;
+
+    --padding_del_search_input_header:8px;
+
+    --espacio_de_navegacion_header:15px;
+
+    --transicion_de_navegacion_link_header:3s;
+    --color_texto_hover_navegacion_link_header:#222;
+
+    /* sidebar */
+
+    --color_de_fondo_contenedor_del_perfil_sidebar:#fff;
+    
+    --padding_info_del_perfil_sidebar:0 25px;
+    --color_del_fondo_info_del_perfil_img_sidebar:#fff;
+    --padding_info_del_perfil_img_sidebar:4px;
+    --color_texto_info_del_perfil_h1_sidebar:#222;
+    --color_texto_info_del_perfil_h3_sidebar:#777;
+    --color_texto_info_del_perfil_ul_li_span_sidebar:blue;
+
+    --border_top_perfil_apartados_sidebar:1px solid #ccc;
+    --padding_perfil_apartados_a_sidebar:15px 0;
+    --border_left_perfil_apartados_a_sidebar:1px solid #ccc;
+
+    --color_fondo_actividades_sidebar:#fff;
+    --color_texto_actividades_h3_sidebar:#777 ;
+    --color_texto_actividades_a_sidebar:#888;
+    --padding_actividades_a_sidebar:4px 2px;
+    --transicion_actividades_a_sidebar:0.5s;
+    --color_fondo_hover_actividades_a_sidebar:#edf3f8;
+    --color_fondo_hover_actividades_a_i_sidebar:#2874b1;
+
+    --border_top_link_discpver_more_sidebar:1px solid #ccc;
+    --color_texto_link_discover_more_a_sidebar:#2874b1;
+}
